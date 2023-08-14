@@ -4,7 +4,9 @@ Midi Controller for use on Lighting Consoles
 VERSION 1
 
 Materials
+
 4 wood screw
+
 2 resistors
 22 gauge wire
 16 Semitsu Screw 22mm arcade buttons
