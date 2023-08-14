@@ -14,4 +14,4 @@ Materials
 - 5pin Midi Din connector female
 - short mini usb-b to usb-a cable
 
-![Employee data](http://imageurl "Employee Data title")
+![Wiring Diagram](https://images.squarespace-cdn.com/content/v1/5912db7ee6f2e1435dbab4fd/6194e345-e583-481f-aa95-1d65a0954b8a/super+simplemidi+keyboard+copy.jpg?format=2500w)
